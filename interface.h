@@ -1,0 +1,1 @@
+void diff(int a, int b);
