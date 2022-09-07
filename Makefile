@@ -9,3 +9,6 @@
 
 comp: comp.c  libfftw3.a
 	gcc -o comp comp.c  libfftw3.a -lm
+
+# comp_small: comp_small.c  libfftw3.a
+# 	gcc -o comp_small comp_small.c  libfftw3.a -lm
